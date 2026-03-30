@@ -57,6 +57,10 @@ bluebeam-market-analysis/
 │   └── sources.md
 ├── notebooks/
 │   └── bluebeam_market_analysis.ipynb
+│   ├── bluebeam_market_analysis.ipynb
+│   ├── market_sizing.png
+│   ├── competitive_positioning.png
+│   └── emea_opportunity.png
 ├── docs/
 │   ├── index.html
 │   └── bluebeam_market_analysis.html
